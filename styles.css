@@ -1,0 +1,105 @@
+.öğrendiklerim {
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: 25% 25%;
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5rem;
+    margin: 50px 20px;
+   
+    
+}
+
+body {
+    background-color: #3A4750;
+    text-align: center;
+    
+}
+
+hr {
+    border: dotted #fff 5px;
+    border-bottom: none;
+    
+}
+
+h1 {
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    
+}
+.logoheader {
+    background-color: #F6C90E;
+    text-align: center;
+}
+.logo {
+    height: 200px;
+    width: 250px;
+    
+}
+
+.aboutme {
+    text-align: center;
+    color: #EEEEEE;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    
+}
+
+
+.browserlogo {
+    height: 200px;
+    width: 400px;
+}
+
+.gitlogo {
+    height: 200px;
+    width: 400px;
+}
+.github {
+    text-align: center;
+    background-color:#F6C90E;
+    height: 300px;
+    width: 400px;
+    
+    
+}
+
+.browser {
+    background-color: #F6C90E;
+    height: 300px;
+    width: 400px;
+}
+.btn {
+    background: black;
+    background-image: -webkit-linear-gradient(top, black, black);
+    background-image: -moz-linear-gradient(top, black, black);
+    background-image: -ms-linear-gradient(top, black, black);
+    background-image: -o-linear-gradient(top, black, black);
+    background-image: linear-gradient(to bottom, black, black);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #082c42;
+    background-image: -webkit-linear-gradient(top, grey, grey);
+    background-image: -moz-linear-gradient(top, grey, grey);
+    background-image: -ms-linear-gradient(top, grey, grey);
+    background-image: -o-linear-gradient(top, grey, grey);
+    background-image: linear-gradient(to bottom, grey, grey);
+    text-decoration: none;
+  }
+
+
+  .link {
+    background-color: #F6C90E;
+    padding: 50px 0 20px;
+    margin: 100px 0 0 0;
+  }
