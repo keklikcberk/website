@@ -1,10 +1,11 @@
 .öğrendiklerim {
-    display: grid;
-    grid-gap: 50px;
-    grid-template-columns: 25% 25%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
     font-family: 'Kanit', sans-serif;
     font-size: 1.5rem;
-    margin: 50px 20px;
+    
    
     
 }
