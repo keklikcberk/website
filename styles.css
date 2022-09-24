@@ -1,3 +1,8 @@
+.header {
+    background-color: #F6C90E;
+}
+
+
 .öğrendiklerim {
     display: flex;
     flex-wrap: wrap;
@@ -5,11 +10,28 @@
     justify-content: center;
     font-family: 'Kanit', sans-serif;
     font-size: 1.5rem;
-    
-   
-    
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+.nav1 {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    font-size: 2rem;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+li {
+    padding: 20px;
+    font-family: 'Pacifico', cursive;
+    
+    
+    
+}
 body {
     background-color: #3A4750;
     text-align: center;
@@ -99,8 +121,8 @@ h1 {
   }
 
 
-  .link {
+  #link {
     background-color: #F6C90E;
-    padding: 50px 0 20px;
+    padding: 50px 0 50px;
     margin: 100px 0 0 0;
   }
